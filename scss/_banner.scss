@@ -1,0 +1,32 @@
+h2.display-5{
+    font-size: 100px;
+
+}
+
+.content{
+    position:relative;
+    left:50%;
+    top:50%;
+    
+    transform: translate(-50%,-50%);
+    text-align:center;
+  
+   
+}
+
+.content1{
+    background:rgba(36, 34, 145, 0.7);
+    height:100vh;
+    width:auto;
+    font-family: sans-serif;
+}
+.back-video{
+    position:absolute;
+    right:0;
+    bottom:0;
+    min-width:100%;
+    min-height:100vh;
+    width:auto;
+    z-index:-100;
+   
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,MAAM;CAGnB",
+    "sources": [
+        "who_we_are.scss"
+    ],
+    "names": [],
+    "file": "who_we_are.css"
+}

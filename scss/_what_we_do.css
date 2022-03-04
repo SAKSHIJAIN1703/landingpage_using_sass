@@ -1,0 +1,21 @@
+.what_we_do {
+  background: rgba(230, 229, 229, 0.97);
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.what_we_do .card-effect {
+  /* box-shadow: var(--box-shadow); */
+  background-color: whitesmoke;
+  padding: 25px;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  border-radius: 10px;
+}
+
+.what_we_do .card-effect:hover {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+}
+/*# sourceMappingURL=what_we_do.css.map */

@@ -1,0 +1,18 @@
+#team {
+  background-color: white;
+}
+
+#team .card-effect {
+  /* box-shadow: var(--box-shadow); */
+  background-color: whitesmoke;
+  padding: 25px;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  border-radius: 10px;
+}
+
+#team .card-effect:hover {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+}
+/*# sourceMappingURL=team.css.map */

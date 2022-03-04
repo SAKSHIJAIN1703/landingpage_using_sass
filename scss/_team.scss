@@ -1,0 +1,22 @@
+@import 'variables';
+#team{
+    background-color: white;
+
+.card-effect {
+    /* box-shadow: var(--box-shadow); */
+    background-color: rgb(245, 245, 245);
+    padding: 25px;
+    transition: all 0.35s ease;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.card-effect:hover {
+    
+    transform: translateY(5px);
+
+}
+h1{
+    font-size: $size;
+}
+}

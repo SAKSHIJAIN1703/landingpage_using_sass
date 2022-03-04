@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya + Sans + SC:wght@400;500;800");
+h2.display-5 {
+  font-size: 100px;
+}
+
+.content {
+  position: relative;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.content1 {
+  background: rgba(36, 34, 145, 0.7);
+  height: 100vh;
+  width: auto;
+  font-family: sans-serif;
+}
+
+.back-video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100vh;
+  width: auto;
+  z-index: -100;
+}
+
+.who_we_are {
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.who_we_are h3 {
+  font-size: 2.75rem;
+}
+
+.marketinsight {
+  background: #444274;
+}
+
+.marketinsight .card-effect {
+  background-color: #444274;
+  border-radius: 12px;
+  padding: 25px;
+}
+
+.marketinsight h3 {
+  font-size: 2.75rem;
+}
+
+.what_we_do {
+  background: rgba(230, 229, 229, 0.97);
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.what_we_do .card-effect {
+  /* box-shadow: var(--box-shadow); */
+  background-color: whitesmoke;
+  padding: 25px;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  border-radius: 10px;
+}
+
+.what_we_do .card-effect:hover {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+}
+
+.what_we_do h3 {
+  font-size: 2.75rem;
+}
+
+#team {
+  background-color: white;
+}
+
+#team .card-effect {
+  /* box-shadow: var(--box-shadow); */
+  background-color: whitesmoke;
+  padding: 25px;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+#team .card-effect:hover {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+}
+
+#team h1 {
+  font-size: 2.75rem;
+}
+
+.footer-top {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: rgba(20, 19, 19, 0.9);
+}
+
+.footer-top a {
+  color: var(--body);
+}
+
+.footer-top a:hover {
+  color: var(--white);
+}
+
+#footer {
+  background-color: rgba(8, 8, 8, 0.685);
+  height: auto;
+}
+
+#footer h5 {
+  font-size: 30px;
+}
+
+section {
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+/*# sourceMappingURL=main.css.map */

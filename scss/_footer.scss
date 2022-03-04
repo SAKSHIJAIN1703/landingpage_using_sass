@@ -1,0 +1,25 @@
+@import 'variables';
+.footer-top {
+    padding-top: 90px;
+    padding-bottom:90px;
+    background-color:rgba(20, 19, 19, 0.9);
+
+    
+ a {
+    color: var(--body);
+}
+
+ a:hover {
+    color: var(--white);
+}
+
+
+
+}
+#footer{
+    background-color: rgba(8, 8, 8, 0.685);
+    height:auto;
+    h5{
+        font-size: $footer;
+    }
+}

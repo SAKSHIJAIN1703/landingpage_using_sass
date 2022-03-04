@@ -1,0 +1,28 @@
+@import 'variables';
+    .what_we_do{
+        background:  rgba(230, 229, 229, 0.97);
+    
+        position: relative;
+        z-index: 2;
+        overflow: hidden;
+
+        .card-effect {
+            /* box-shadow: var(--box-shadow); */
+            background-color: rgb(245, 245, 245);
+            padding: 25px;
+            transition: all 0.35s ease;
+            border-radius: 10px;
+        }
+        
+        .card-effect:hover {
+            
+            transform: translateY(5px);
+        }
+        h3{
+         font-size: $size;
+        }
+    }
+    
+    
+
+    

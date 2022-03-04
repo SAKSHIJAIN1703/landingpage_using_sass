@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAA;EAAM,UAAU,EAAC,OAAgB;CAQ9C;;AARD,AAEI,cAFU,CAEV,YAAY,CAAC;EACT,gBAAgB,EAAC,OAAgB;EAChC,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,IAAI;CACjB",
+    "sources": [
+        "marketinsight.scss"
+    ],
+    "names": [],
+    "file": "marketinsight.css"
+}

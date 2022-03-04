@@ -1,0 +1,11 @@
+@import 'variables';
+
+.who_we_are {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+   
+  h3{
+      font-size: $size;
+  }
+}

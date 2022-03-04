@@ -1,0 +1,19 @@
+.footer-top {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: rgba(20, 19, 19, 0.9);
+}
+
+.footer-top a {
+  color: var(--body);
+}
+
+.footer-top a:hover {
+  color: var(--white);
+}
+
+#footer {
+  background-color: rgba(8, 8, 8, 0.685);
+  height: auto;
+}
+/*# sourceMappingURL=footer.css.map */
